@@ -1,0 +1,27 @@
+@media screen and (max-width: 700px){
+.sborki{
+    display: flex;
+    justify-content: space-between;
+    width: 10%;
+    flex-wrap: wrap;
+}}
+.sborki-img{
+    max-width: 20%;
+    border: 2px;
+    min-width: 200px;
+}
+.pahan{
+    width: 60%;
+    max-width: 800px;
+
+}
+.zakup{
+    display: flex;
+    justify-content: space-between;
+    flex-wrap: wrap;
+}
+.zak{
+    padding: 10px;
+    width: 60%;
+    max-width: 400px;
+}
